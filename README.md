@@ -1,2 +1,1 @@
-# Tindog
-Web design practice
+TinDog Starting Files
